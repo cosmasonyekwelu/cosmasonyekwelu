@@ -98,8 +98,6 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 ![](https://nirzak-streak-stats.vercel.app/?user=cosmasonyekwelu&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cosmasonyekwelu&theme=flat&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=cosmasonyekwelu&icon=0&color=0)](https://visitcount.itsvg.in)
