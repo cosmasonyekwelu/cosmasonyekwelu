@@ -2,7 +2,7 @@
 
 Hello there! 👋 I'm **Cosmas Onyekwelu**, a passionate and detail-oriented software developer with a love for creating elegant, efficient, and user-friendly web applications. I thrive on turning complex problems into simple, beautiful solutions.
 
-🚀 Currently working on: **refTrader, OTCBook and **Bitcoin utilities**.  
+🚀 Currently working on: **RefTrader, OTCBook and **Crypto utilities**.  
 🎯 2025 Goal: Complete **Backend With Python Course & finish **#100DaysOfCode**
 
 My journey in tech is fueled by a constant curiosity to learn new technologies and frameworks. I'm particularly interested in the intersection of **software development and artificial intelligence**, exploring how we can build smarter and more intuitive user experiences.
