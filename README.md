@@ -101,7 +101,7 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=cosmasonyekwelu&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Profile%20Views&color=0e75b6&style=flat)
 
 **⚡ Fun Fact:** I'm a huge sci-fi fan and I believe a good cup of coffee is the ultimate debugging tool.
 
