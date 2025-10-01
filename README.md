@@ -38,7 +38,6 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 
 ![GitHub followers](https://img.shields.io/github/followers/cosmasonyekwelu?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/cosmasonyekwelu?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Visitors&color=green&style=for-the-badge)
 
 ---
 
