@@ -2,8 +2,8 @@
 
 Hello there! 👋 I'm **Cosmas Onyekwelu**, a passionate and detail-oriented software developer with a love for creating elegant, efficient, and user-friendly web applications. I thrive on turning complex problems into simple, beautiful solutions.
 
-🚀 Currently working on: **RefTrader, OTCBook and **Cryptocurrencies utilities**.  
-🎯 2025 Goal: Complete **Backend With Python Course & finish **#100DaysOfCode**
+🚀 Currently working on: **RefTrader, OTCBook and Cryptocurrencies utilities**.  
+🎯 2025 Goal: Complete **Backend With Python Course & finish #100DaysOfCode**
 
 My journey in tech is fueled by a constant curiosity to learn new technologies and frameworks. I'm particularly interested in the intersection of **software development and artificial intelligence**, exploring how we can build smarter and more intuitive user experiences.
 
@@ -11,7 +11,7 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 
 ---
 
-## 👯 What I’m Looking To Collaborate On
+## 👯 What I'm Looking To Collaborate On
 
 - Web3 / blockchain projects
 - Open source tooling, libraries, or utility tools
@@ -94,9 +94,13 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cosmasonyekwelu&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cosmasonyekwelu&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📈 GitHub Activity Graph
+
+[![Cosmas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cosmasonyekwelu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -107,3 +111,5 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosmasonyekwelu)
 
 ---
+
+_Last Updated: $(date)_
