@@ -1,33 +1,34 @@
-# About Me:
+# 👋 About Me
 
-Hello there! 👋 I'm **Cosmas Onyekwelu**, a passionate and detail-oriented software developer with a love for creating elegant, efficient, and user-friendly web applications. I thrive on turning complex problems into simple, beautiful solutions.
+Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented **Full-Stack Software Developer** who loves crafting elegant, efficient, and user-friendly web applications.  
+I thrive on turning complex problems into simple, beautiful solutions.
 
-🚀 Currently working on: **RefTrader, OTCBook and Cryptocurrencies utilities**.  
-🎯 2025 Goal: Complete **Backend With Python Course & finish #100DaysOfCode**
+🚀 **Currently working on:** RefTrader, OTCBook & Cryptocurrency utilities  
+🎯 **2025 Goal:** Complete _Backend with Python Course_ & finish _#100DaysOfCode_
 
-My journey in tech is fueled by a constant curiosity to learn new technologies and frameworks. I'm particularly interested in the intersection of **software development and artificial intelligence**, exploring how we can build smarter and more intuitive user experiences.
+My journey in tech is fueled by curiosity — constantly exploring new frameworks, tools, and ideas that push the limits of software development and artificial intelligence.
 
-When I'm not coding, you can probably find me reading tech blogs, contributing to open-source projects, Trading cryptocurrencies or brainstorming my next big idea.
+When I'm not coding, I’m reading tech blogs, contributing to open-source projects, trading cryptocurrencies, or brainstorming my next big idea.
 
 ---
 
 ## 👯 What I'm Looking To Collaborate On
 
 - Web3 / blockchain projects
-- Open source tooling, libraries, or utility tools
+- Open source tooling, libraries, or utilities
 - Communities, hackathons, and mentorship programs
 
 ## 💬 Ask Me About
 
-- Web development
-- Cryptocurrencies trading
+- Web development (React, Node.js, Django, FastAPI)
+- Cryptocurrency trading
 - APIs & backend integrations
 - Building side projects
-- Mobile app development (React Native)
+- Mobile development with React Native
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cosmasonyekwelu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cosmasonyekwelu)
@@ -41,19 +42,19 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ## 🌐 Frontend
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## ⚙️ Backend & APIs
+### ⚙️ Backend & APIs
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -64,14 +65,14 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🛢️ Databases
+### 🛢️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -82,7 +83,7 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-## 🎨 Design & Tools
+### 🎨 Design & Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -92,24 +93,26 @@ When I'm not coding, you can probably find me reading tech blogs, contributing t
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=cosmasonyekwelu&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-mu-nine-54.vercel.app/api?username=cosmasonyekwelu&theme=default&hide_border=false&count_private=true)
+![](https://streak-stats.demolab.com/?user=cosmasonyekwelu&theme=default&hide_border=false)
+![](https://github-readme-stats-mu-nine-54.vercel.app/api/top-langs/?username=cosmasonyekwelu&theme=default&hide_border=false&layout=compact)
+
+---
 
 ## 📈 GitHub Activity Graph
 
-[![Cosmas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cosmasonyekwelu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Cosmas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cosmasonyekwelu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Profile%20Views&color=0e75b6&style=flat)
 
-**⚡ Fun Fact:** I'm a huge sci-fi fan and I believe a good cup of coffee is the ultimate debugging tool.
+**⚡ Fun Fact:** I’m a huge sci-fi fan and I believe a good cup of coffee is the ultimate debugging tool.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosmasonyekwelu)
 
 ---
 
-_Last Updated: $(date)_
+_Last Updated: Oct 6, 2025_
