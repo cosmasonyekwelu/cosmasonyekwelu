@@ -4,9 +4,9 @@ Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented **Full-S
 I thrive on turning complex problems into simple, beautiful solutions.
 
 🚀 **Currently working on:** RefTrader, OTCBook & Cryptocurrency utilities  
-🎯 **2025 Goal:** Complete _Backend with Python Course_ & finish _#100DaysOfCode_
+🎯 **2025 Goal:** Complete _Backend with Python Course_ & finish _*#100DaysOfCode*_
 
-My journey in tech is fueled by curiosity — constantly exploring new frameworks, tools, and ideas that push the limits of software development and artificial intelligence.
+My journey in tech is fueled by curiosity, constantly exploring new frameworks, tools, and ideas that push the limits of software development and artificial intelligence.
 
 When I'm not coding, I’m reading tech blogs, contributing to open-source projects, trading cryptocurrencies, or brainstorming my next big idea.
 
@@ -98,12 +98,6 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 ![](https://github-readme-stats-mu-nine-54.vercel.app/api?username=cosmasonyekwelu&theme=default&hide_border=false&count_private=true)
 ![](https://streak-stats.demolab.com/?user=cosmasonyekwelu&theme=default&hide_border=false)
 ![](https://github-readme-stats-mu-nine-54.vercel.app/api/top-langs/?username=cosmasonyekwelu&theme=default&hide_border=false&layout=compact)
-
----
-
-## 📈 GitHub Activity Graph
-
-[![Cosmas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cosmasonyekwelu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
