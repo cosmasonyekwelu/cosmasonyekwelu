@@ -95,9 +95,9 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats-mu-nine-54.vercel.app/api?username=cosmasonyekwelu&theme=default&hide_border=false&count_private=true)
-![](https://streak-stats.demolab.com/?user=cosmasonyekwelu&theme=default&hide_border=false)
-![](https://github-readme-stats-mu-nine-54.vercel.app/api/top-langs/?username=cosmasonyekwelu&theme=default&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&theme=default&hide_border=false&count_private=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cosmasonyekwelu&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&theme=default&hide_border=false&layout=compact)
 
 ---
 
@@ -108,5 +108,3 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosmasonyekwelu)
 
 ---
-
-_Last Updated: Oct 6, 2025_
