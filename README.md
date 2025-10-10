@@ -95,14 +95,9 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&theme=transparent&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=cosmasonyekwelu&theme=transparent" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&theme=transparent" height="160"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&theme=transparent&count_private=true)
+![](https://streak-stats.demolab.com?user=cosmasonyekwelu&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&theme=transparent)
 
 ---
 
