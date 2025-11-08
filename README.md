@@ -93,15 +93,15 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 ---
 
-# 🎃 Spooky GitHub Stats
+# GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&theme=dark&count_private=true&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff&bg_color=1a1a1a&border_color=ff6b35)
-![](https://streak-stats.demolab.com?user=cosmasonyekwelu&theme=dark&background=1a1a1a&border=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&theme=dark&title_color=ff6b35&text_color=ffffff&bg_color=1a1a1a&border_color=ff6b35)
+![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&theme=default&count_private=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
+![](https://streak-stats.demolab.com?user=cosmasonyekwelu&theme=default&background=ffffff&border=d1d5da&ring=0366d6&fire=0366d6&currStreakLabel=0366d6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&theme=default&title_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
 
 ---
 
-![Ghostly Visitors](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Spooky%20Visitors&color=ff6b35&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Profile%20Views&color=0366d6&style=flat)
 
 **⚡ Fun Fact:** I’m a huge sci-fi fan and I believe a good cup of coffee is the ultimate debugging tool.
 
