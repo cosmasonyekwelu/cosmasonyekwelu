@@ -20,7 +20,7 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 ## 💬 Ask Me About
 
-- Web development (React, Node.js, Django, FastAPI)
+- Web development
 - Cryptocurrency trading
 - APIs & backend integrations
 - Building side projects
