@@ -6,7 +6,7 @@ I thrive on turning complex problems into simple, beautiful solutions.
 🚀 **Currently working on:** RefTrader, OTCBook & Cryptocurrency utilities  
 🎯 **2025 Goal:** Complete _Backend with Python Course_ & finish _*#100DaysOfCode*_
 
-My journey in tech is fueled by curiosity, constantly exploring new frameworks, tools, and ideas that push the limits of software development and artificial intelligence.
+My journey in tech is driven by curiosity and a relentless pursuit of innovation, exploring AI, automation, and fintech to engineer intelligent systems that bridge data, finance, and real-world impact.
 
 When I'm not coding, I’m reading tech blogs, contributing to open-source projects, trading cryptocurrencies, or brainstorming my next big idea.
 
@@ -23,7 +23,6 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 - Web development
 - Cryptocurrency trading
 - APIs & backend integrations
-- Building side projects
 - Mobile development with React Native
 
 ---
