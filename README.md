@@ -87,9 +87,17 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 # GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&theme=default&count_private=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
+<!-- GitHub Stats -->
+
+![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&count_private=true&theme=default&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
+
+<!-- GitHub Streak -->
+
 ![](https://streak-stats.demolab.com?user=cosmasonyekwelu&theme=default&background=ffffff&border=d1d5da&ring=0366d6&fire=0366d6&currStreakLabel=0366d6)
-![](https://github-readme-stats-three-puce-57.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&count_private=true&theme=default&title_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
+
+<!-- Top Languages  -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&count_private=true&theme=default&title_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
 
 ---
 
