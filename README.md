@@ -36,9 +36,6 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cosmasonyekwelu)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cosmasonyekwelu)
 
-![GitHub followers](https://img.shields.io/github/followers/cosmasonyekwelu?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/cosmasonyekwelu?style=social)
-
 ---
 
 # 💻 Tech Stack
@@ -85,7 +82,7 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 <!-- GitHub Streak -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cosmasonyekwelu)
+![GitHub Streak](https://streak-stats.demolab.com?user=cosmasonyekwelu&cache_seconds=86400)
 
 <!-- Top Languages  -->
 
