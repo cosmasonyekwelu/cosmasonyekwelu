@@ -85,7 +85,7 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 <!-- GitHub Streak -->
 
-![](https://github-readme-streak-stats-eight.vercel.app?user=cosmasonyekwelu&theme=default&background=ffffff&border=d1d5da&ring=0366d6&fire=0366d6&currStreakLabel=0366d6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cosmasonyekwelu&theme=default&hide_border=false)
 
 <!-- Top Languages  -->
 
