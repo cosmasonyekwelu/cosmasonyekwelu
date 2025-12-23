@@ -85,7 +85,7 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 <!-- GitHub Streak -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cosmasonyekwelu&theme=default&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=cosmasonyekwelu)
 
 <!-- Top Languages  -->
 
@@ -93,7 +93,7 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Profile%20Views&color=0366d6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Profile%20Views)
 
 **⚡ Fun Fact:** I’m a huge sci-fi fan and I believe a good cup of coffee is the ultimate debugging tool.
 
