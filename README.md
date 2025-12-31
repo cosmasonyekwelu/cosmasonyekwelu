@@ -3,8 +3,7 @@
 Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented **Full-Stack Software Developer** who loves crafting elegant, efficient, and user-friendly web applications.  
 I thrive on turning complex problems into simple, beautiful solutions.
 
-🚀 **Currently working on:** RefTrader, OTCBook & Cryptocurrency utilities  
-🎯 **2025 Goal:** Complete _Backend with Python Course_ & finish _*#100DaysOfCode*_
+
 
 My journey in tech is driven by curiosity and a relentless pursuit of innovation, exploring AI, automation, and fintech to engineer intelligent systems that bridge data, finance, and real-world impact.
 
@@ -81,9 +80,7 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 ![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&count_private=true&theme=default&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
 
 <!-- GitHub Streak -->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=cosmasonyekwelu&cache_seconds=86400)
-
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=cosmasonyekwelu)
 <!-- Top Languages  -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&count_private=true&theme=default&title_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
