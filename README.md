@@ -79,10 +79,9 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 <!-- GitHub Stats -->
 
-![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&count_private=true&theme=default&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
+![Cosmas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=COSMASONYEKWELU&show_icons=true&count_private=true&theme=radical&hide_border=true)
 
-![Cosmas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=COSMASONYEKWELU&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=COSMASONYEKWELU&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=COSMASONYEKWELU&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 <!-- GitHub Streak -->
 
