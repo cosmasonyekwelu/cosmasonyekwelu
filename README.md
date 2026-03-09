@@ -22,9 +22,9 @@ My journey in tech is driven by curiosity and a relentless pursuit of innovation
 
 **Featured Projects**
 
-- [Zura CRM](https://github.com/cosmasonyekwelu/zura-crm) – Fintech CRM with secure auth & dashboards
-- [TwitterPlus](https://github.com/cosmasonyekwelu/twitterplus) – Real-time social platform with WebSockets
-- [BTC Screenshot Generator](https://github.com/cosmasonyekwelu/btc-screenshot) – Professional transaction tool
+- [Zura CRM](https://github.com/cosmasonyekwelu/zura-crm): CRM Web application with secure auth & dashboards
+- [TwitterPlus](https://github.com/cosmasonyekwelu/twitterplus): Real-time social platform with WebSockets
+- [BTC Screenshot Generator](https://github.com/cosmasonyekwelu/btc-screenshot): Bitcoin Transaction Screenshot Generator and also to rebroadcast un-confirmed transactions.
 
 ## 💬 Ask Me About
 
