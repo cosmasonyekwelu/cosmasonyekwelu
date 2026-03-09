@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented **Full-Stack Software Developer** who loves crafting elegant, efficient, and user-friendly web applications.  
+Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented, **Backend-leaning** Full-Stack Software Developer who loves crafting elegant, efficient, and user-friendly web applications.  
 I thrive on turning complex problems into simple, beautiful solutions.
 
 My journey in tech is driven by curiosity and a relentless pursuit of innovation, exploring AI, automation, and fintech to engineer intelligent systems that bridge data, finance, and real-world impact.
@@ -9,15 +9,14 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 ---
 
-**Currently open to full-time or freelance opportunities.**
+**Currently open to full-time or Remote opportunities.** Based in Lagos, Nigeria (WAT, UTC+1).
+- **Email:** onyecosmas@gmail.com
 
 **Featured Projects**
 
 - [Zura CRM](https://github.com/cosmasonyekwelu/zura-crm) – Fintech CRM with secure auth & dashboards
 - [TwitterPlus](https://github.com/cosmasonyekwelu/twitterplus) – Real-time social platform with WebSockets
 - [BTC Screenshot Generator](https://github.com/cosmasonyekwelu/btc-screenshot) – Professional transaction tool
-
-Open to Web3, open-source, and mentorship collaborations.
 
 ## 👯 What I'm Looking To Collaborate On
 
@@ -34,7 +33,8 @@ Open to Web3, open-source, and mentorship collaborations.
 
 ---
 
-## 🌐 Socials
+
+## 📫 Connect
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cosmasonyekwelu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cosmasonyekwelu)
@@ -42,15 +42,14 @@ Open to Web3, open-source, and mentorship collaborations.
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cosmasonyekwelu)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cosmasonyekwelu)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cosmasonyekwelu)
-
 ---
 
-### 🛠 Tech Stack
+## 🔧 Tech Stack
 
-**Frontend:** React, TypeScript, Tailwind CSS, Vite, Zustand, TanStack Query  
-**Backend:** Node.js, Express.js, Python, Django, REST APIs, WebSockets (Socket.IO)  
-**Database:** MongoDB, PostgreSQL, MySQL  
-**Tools & Others:** Git, GitHub Actions, Docker, JWT, Postman
+**Frontend:** React · TypeScript · Tailwind CSS · React Native · Vite
+**Backend:** Node.js · Express · Python · Django · REST APIs · WebSockets
+**Database:** MongoDB · PostgreSQL · MySQL
+**DevOps & Tools:** Docker · AWS · Git · GitHub Actions · Postman
 
 ## 🌐 Frontend
 
