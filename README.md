@@ -1,13 +1,16 @@
-# 👋 About Me
+# Hi, I'm  Cosmas Onyekwelu👋
 
-Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented, **Backend-leaning** Full-Stack Software Developer who loves crafting elegant, efficient, and user-friendly web applications.  
-I thrive on turning complex problems into simple, beautiful solutions.
+Backend-leaning Full-Stack Developer building intelligent systems with Node.js, Python, and React.
 
 My journey in tech is driven by curiosity and a relentless pursuit of innovation, exploring AI, automation, and fintech to engineer intelligent systems that bridge data, finance, and real-world impact.
 
-When I'm not coding, I’m reading tech blogs, contributing to open-source projects, trading cryptocurrencies, or brainstorming my next big idea.
-
 ---
+## 🔧 Tech Stack
+
+**Frontend:** React · TypeScript · Tailwind CSS · React Native · Vite · Zustand
+**Backend:** Node.js · Express · Python · Django · REST APIs · WebSockets
+**Database:** MongoDB · PostgreSQL · MySQL
+**DevOps & Tools:** Docker · AWS · Git · GitHub Actions · Postman
 
 **Currently open to full-time or Remote opportunities.** Based in Lagos, Nigeria (WAT, UTC+1).
 - **Email:** onyecosmas@gmail.com
@@ -18,19 +21,12 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 - [TwitterPlus](https://github.com/cosmasonyekwelu/twitterplus) – Real-time social platform with WebSockets
 - [BTC Screenshot Generator](https://github.com/cosmasonyekwelu/btc-screenshot) – Professional transaction tool
 
-## 👯 What I'm Looking To Collaborate On
-
-- Web3 / blockchain projects
-- Open source tooling, libraries, or utilities
-- Communities, hackathons, and mentorship programs
-
 ## 💬 Ask Me About
 
 - Web development
 - Cryptocurrency trading
 - APIs & backend integrations
 - Mobile development with React Native
-
 ---
 
 
@@ -43,13 +39,6 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cosmasonyekwelu)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cosmasonyekwelu)
 ---
-
-## 🔧 Tech Stack
-
-**Frontend:** React · TypeScript · Tailwind CSS · React Native · Vite
-**Backend:** Node.js · Express · Python · Django · REST APIs · WebSockets
-**Database:** MongoDB · PostgreSQL · MySQL
-**DevOps & Tools:** Docker · AWS · Git · GitHub Actions · Postman
 
 ## 🌐 Frontend
 
@@ -82,19 +71,12 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
 ---
 
-# GitHub Stats
-
-![Cosmas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&count_private=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&theme=radical&hide_border=true)
 
 <!-- GitHub Streak -->
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=cosmasonyekwelu)
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Profile%20Views)
@@ -102,5 +84,4 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 **⚡ Fun Fact:** I’m a huge sci-fi fan and I believe a good cup of coffee is the ultimate debugging tool.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosmasonyekwelu)
-
 ---
