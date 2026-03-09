@@ -1,6 +1,7 @@
 # 👋 About Me
 
-Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented **Full-Stack Software Developer (MERN)** | Building fintech CRMs, real-time apps & crypto tools | Zura CRM & TwitterPlus | Lagos, Nigeria | Open to opportunities.
+Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented **Full-Stack Software Developer** who loves crafting elegant, efficient, and user-friendly web applications.  
+I thrive on turning complex problems into simple, beautiful solutions.
 
 My journey in tech is driven by curiosity and a relentless pursuit of innovation, exploring AI, automation, and fintech to engineer intelligent systems that bridge data, finance, and real-world impact.
 
@@ -78,10 +79,9 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 # GitHub Stats
 
 <!-- GitHub Stats -->
+![Cosmas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&count_private=true&theme=radical&hide_border=true)
 
-![Cosmas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=COSMASONYEKWELU&show_icons=true&count_private=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=COSMASONYEKWELU&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&theme=radical&hide_border=true)
 
 <!-- GitHub Streak -->
 
