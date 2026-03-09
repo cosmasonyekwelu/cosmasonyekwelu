@@ -1,9 +1,6 @@
 # 👋 About Me
 
-Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented **Full-Stack Software Developer** who loves crafting elegant, efficient, and user-friendly web applications.  
-I thrive on turning complex problems into simple, beautiful solutions.
-
-
+Hello there! I'm **Cosmas Onyekwelu**, a passionate and detail-oriented **Full-Stack Software Developer (MERN)** | Building fintech CRMs, real-time apps & crypto tools | Zura CRM & TwitterPlus | Lagos, Nigeria | Open to opportunities.
 
 My journey in tech is driven by curiosity and a relentless pursuit of innovation, exploring AI, automation, and fintech to engineer intelligent systems that bridge data, finance, and real-world impact.
 
@@ -37,7 +34,12 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 ---
 
-# 💻 Tech Stack
+### 🛠 Tech Stack
+
+**Frontend:** React, TypeScript, Tailwind CSS, Vite, Zustand, TanStack Query  
+**Backend:** Node.js, Express.js, Python, Django, REST APIs, WebSockets (Socket.IO)  
+**Database:** MongoDB, PostgreSQL, MySQL  
+**Tools & Others:** Git, GitHub Actions, Docker, JWT, Postman
 
 ## 🌐 Frontend
 
@@ -79,11 +81,12 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 ![](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&count_private=true&theme=default&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=cosmasonyekwelu)
-<!-- Top Languages  -->
+![Cosmas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=COSMASONYEKWELU&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=COSMASONYEKWELU&layout=compact&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&count_private=true&theme=default&title_color=0366d6&text_color=24292e&bg_color=ffffff&border_color=d1d5da)
+<!-- GitHub Streak -->
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=cosmasonyekwelu)
 
 ---
 
