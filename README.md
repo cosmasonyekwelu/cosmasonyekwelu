@@ -9,6 +9,16 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 ---
 
+**Currently open to full-time or freelance opportunities.**
+
+**Featured Projects**
+
+- [Zura CRM](https://github.com/cosmasonyekwelu/zura-crm) – Fintech CRM with secure auth & dashboards
+- [TwitterPlus](https://github.com/cosmasonyekwelu/twitterplus) – Real-time social platform with WebSockets
+- [BTC Screenshot Generator](https://github.com/cosmasonyekwelu/btc-screenshot) – Professional transaction tool
+
+Open to Web3, open-source, and mentorship collaborations.
+
 ## 👯 What I'm Looking To Collaborate On
 
 - Web3 / blockchain projects
@@ -78,7 +88,6 @@ When I'm not coding, I’m reading tech blogs, contributing to open-source proje
 
 # GitHub Stats
 
-<!-- GitHub Stats -->
 ![Cosmas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&count_private=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&theme=radical&hide_border=true)
