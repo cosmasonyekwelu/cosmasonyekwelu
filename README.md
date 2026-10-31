@@ -80,11 +80,22 @@ My journey in tech is driven by curiosity and a relentless pursuit of innovation
 
 ---
 
-<!-- GitHub Streak -->
+## 🎃 The Midnight Code Cauldron
 
-## ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=cosmasonyekwelu)
+> Every commit is a spark in the dark, and every release is a spell cast into production.
 
-![Profile Views](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Profile%20Views)
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=cosmasonyekwelu&theme=dark&background=0d0d0d&border=FF7A18&stroke=F59E0B&ring=F97316&fire=F59E0B&currStreakNum=FDE68A&sideNums=FDE68A&currStreakLabel=FDE68A&sideLabels=FDE68A" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&theme=dracula&hide_border=true&title_color=F59E0B&icon_color=F97316&text_color=FDE68A&bg_color=111111" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&theme=dracula&hide_border=true&title_color=F59E0B&text_color=FDE68A&bg_color=111111" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Spooky%20Profile%20Visits&color=orange&style=flat-square" alt="Profile Views" />
+</p>
 
 **⚡ Fun Fact:** I’m a huge sci-fi fan and I believe a good cup of coffee is the ultimate debugging tool.
 
