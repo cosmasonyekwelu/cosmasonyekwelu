@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/halloween-banner.svg" alt="Cosmas Onyekwelu — Halloween in the Code Lab" width="100%" />
+<img src="./halloween-banner.svg" alt="Cosmas Onyekwelu — Halloween in the Code Lab" width="100%" />
 
 # Cosmas Onyekwelu
 
@@ -45,7 +45,7 @@ I work across the product lifecycle: designing APIs, building application backen
 ![Express](https://img.shields.io/badge/Express-18181b?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-18181b?style=for-the-badge&logo=django&logoColor=44b78b)
 ![FastAPI](https://img.shields.io/badge/FastAPI-18181b?style=for-the-badge&logo=fastapi&logoColor=009688)
-![REST API](https://img.shields.io/badge/REST_APIs-18181b?style=for-the-badge&logo= fastapi&logoColor=009688)
+![REST API](https://img.shields.io/badge/REST_APIs-18181b?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=4169e1)
@@ -62,11 +62,17 @@ I work across the product lifecycle: designing APIs, building application backen
 
 ## Featured Projects
 
-| Project | What it does |
-|---|---|
-| [Zura CRM](https://github.com/cosmasonyekwelu/zura-crm) | CRM application featuring secure authentication, dashboards, and business workflows. |
-| [TwitterPlus](https://github.com/cosmasonyekwelu/twitterplus) | Social application exploring real-time interactions with WebSockets. |
-| [BTC Screenshot Generator](https://github.com/cosmasonyekwelu/btc-screenshot) | Bitcoin transaction screenshot utility with transaction rebroadcast functionality. |
+### [BambiFound](https://github.com/cosmasonyekwelu/BambiFound)
+A product-focused build centered on practical user value and streamlined workflows.
+
+### [OTCbook](https://github.com/cosmasonyekwelu/capstone-version-otcbook)
+A trading and OTC-related workflow project built around operational efficiency and automation.
+
+### [worknest](https://github.com/cosmasonyekwelu/worknest-backend)
+A workspace-focused platform aimed at improving collaboration, operations, and team productivity.
+
+### [intelihr](https://github.com/cosmasonyekwelu/intelihr)
+An HR and workforce systems project focused on smarter internal processes and digital operations.
 
 > Explore my repositories for more experiments, product builds, and engineering work.
 
