@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Cosmas Onyekwelu — The Midnight Code Lab</title>
+  <desc id="desc">A Halloween-themed dark purple night scene with an orange moon, bats, a haunted castle, pumpkins, and glowing code symbols.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b18"/>
+      <stop offset="0.55" stop-color="#17112c"/>
+      <stop offset="1" stop-color="#29132b"/>
+    </linearGradient>
+    <radialGradient id="moon">
+      <stop offset="0" stop-color="#fff1b8"/>
+      <stop offset="0.72" stop-color="#fb923c"/>
+      <stop offset="1" stop-color="#ea580c"/>
+    </radialGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdba74"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="24" fill="url(#sky)"/>
+  <path d="M0 285 Q180 250 340 290 T680 278 T950 285 T1200 260 V380 H0Z" fill="#0a0b17"/>
+  <circle cx="950" cy="112" r="70" fill="url(#moon)" filter="url(#softGlow)"/>
+  <circle cx="925" cy="92" r="10" fill="#f97316" opacity=".22"/>
+  <circle cx="975" cy="139" r="14" fill="#f97316" opacity=".2"/>
+  <circle cx="990" cy="86" r="7" fill="#f97316" opacity=".2"/>
+
+  <!-- stars -->
+  <g fill="#fed7aa" opacity=".8">
+    <circle cx="80" cy="58" r="2"/><circle cx="180" cy="110" r="1.8"/><circle cx="310" cy="48" r="2"/>
+    <circle cx="420" cy="95" r="1.5"/><circle cx="570" cy="45" r="2"/><circle cx="710" cy="100" r="1.5"/>
+    <circle cx="820" cy="45" r="2"/><circle cx="1090" cy="54" r="1.8"/><circle cx="1135" cy="190" r="1.5"/>
+    <path d="M250 150v12m-6-6h12M755 35v12m-6-6h12M1060 220v10m-5-5h10" stroke="#fed7aa" stroke-width="1.5"/>
+  </g>
+
+  <!-- bats -->
+  <g fill="#050610">
+    <path d="M760 74 q-18-20-34-8 l-8-14-5 24-18 12 28-2 10 14 10-14 27 2-18-14-4-22z"/>
+    <path d="M1090 205 q-13-15-25-6 l-6-11-4 18-14 9 21-1 8 11 7-11 20 1-13-10-3-17z"/>
+    <path d="M505 145 q-12-14-23-5 l-5-10-4 17-13 8 19-1 7 10 7-10 18 1-12-9-3-16z"/>
+  </g>
+
+  <!-- haunted castle silhouette -->
+  <g fill="#080914" stroke="#342044" stroke-width="2">
+    <path d="M75 292V205h28v-27h17v27h22v87z"/>
+    <path d="M105 205v-35l12-18 12 18v35z"/>
+    <path d="M125 292V222h28v-24h18v24h23v70z"/>
+    <path d="M152 222v-32l10-16 10 16v32z"/>
+    <path d="M180 292V185h35v-25h17v25h29v107z"/>
+    <path d="M214 185v-43l10-18 10 18v43z"/>
+    <path d="M246 292V218h25v-20h18v20h22v74z"/>
+    <path d="M269 218v-30l11-16 11 16v30z"/>
+    <path d="M300 292V240h22v-18h15v18h19v52z"/>
+    <path d="M322 240v-24l8-13 8 13v24z"/>
+  </g>
+  <g fill="#fb923c" opacity=".9">
+    <path d="M112 235h8v15h-8zM158 244h8v15h-8zM221 210h8v17h-8zM278 238h7v13h-7zM330 253h6v11h-6z"/>
+  </g>
+  <path d="M0 292 Q190 280 360 298 T720 292 T1200 290" fill="none" stroke="#f97316" stroke-opacity=".35" stroke-width="2"/>
+
+  <!-- pumpkin -->
+  <g transform="translate(1050 274)">
+    <path d="M0-25q-5-12 5-20q11 8 4 20" fill="#65a30d" stroke="#365314" stroke-width="2"/>
+    <path d="M-37 0q-4-26 15-33q14-8 22 1q12-9 26-1q19 9 15 33q-3 27-39 28q-36-1-39-28z" fill="#f97316" stroke="#c2410c" stroke-width="3"/>
+    <path d="M-16-10l8 8-8 5zM14-10L6-2l8 5z" fill="#271326"/>
+    <path d="M-13 13q13 12 26 0l-5-5h-16z" fill="#271326"/>
+  </g>
+
+  <!-- headline -->
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="70" y="92" fill="#fdba74" font-size="17" font-weight="700" letter-spacing="5">SOFTWARE ENGINEER  /  FINTECH  /  AI</text>
+    <text x="68" y="157" fill="#fff7ed" font-size="49" font-weight="800" letter-spacing="-1">THE MIDNIGHT</text>
+    <text x="68" y="213" fill="#fb923c" font-size="49" font-weight="800" letter-spacing="-1">CODE LAB</text>
+    <text x="72" y="248" fill="#d6d3d1" font-size="18">Cosmas Onyekwelu</text>
+    <text x="72" y="274" fill="#a8a29e" font-size="13" letter-spacing="2">BUILDING INTELLIGENT SYSTEMS, ONE COMMIT AT A TIME</text>
+  </g>
+
+  <!-- terminal card -->
+  <g transform="translate(690 245)">
+    <rect width="240" height="80" rx="10" fill="#090b16" stroke="#fb923c" stroke-opacity=".7"/>
+    <circle cx="17" cy="15" r="4" fill="#f87171"/><circle cx="31" cy="15" r="4" fill="#fbbf24"/><circle cx="45" cy="15" r="4" fill="#4ade80"/>
+    <text x="17" y="43" fill="#fdba74" font-family="Consolas, monospace" font-size="13">$ deploy --with-courage</text>
+    <text x="17" y="64" fill="#86efac" font-family="Consolas, monospace" font-size="12">✓ production is alive</text>
+  </g>
+  <path d="M24 24h1152v332H24z" fill="none" stroke="#fb923c" stroke-opacity=".28" stroke-width="1.5" rx="24"/>
+</svg>

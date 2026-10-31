@@ -1,102 +1,115 @@
-# Hi, I'm Cosmas Onyekwelu👋
+<div align="center">
 
-Backend-leaning Full-Stack Developer building intelligent systems with Node.js, Python, and React.
+<img src="assets/halloween-banner.svg" alt="Cosmas Onyekwelu — Halloween in the Code Lab" width="100%" />
 
-My journey in tech is driven by curiosity and a relentless pursuit of innovation, exploring AI, automation, and fintech to engineer intelligent systems that bridge data, finance, and real-world impact.
+# Cosmas Onyekwelu
 
----
+### Software Engineer | Fintech & AI | Backend-Leaning Full-Stack Developer
 
-## 🔧 Tech Stack
+I build secure APIs, practical fintech products, AI-powered workflows, and web applications that solve real-world problems.
 
-**Frontend:** React · TypeScript · Tailwind CSS · React Native · Vite · Zustand
+[Portfolio](https://cosmasonyekwelu.com/) · [LinkedIn](https://linkedin.com/in/cosmasonyekwelu) · [Substack](https://cosmasonyekwelu.substack.com/) · [X](https://x.com/cosmasonyekwelu)
 
-**Backend:** Node.js · Express · Python · Django · REST APIs · WebSockets
+![Profile views](https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Visitors&color=f97316&style=flat-square)
 
-**Database:** MongoDB · PostgreSQL · MySQL
-
-**DevOps & Tools:** Docker · AWS · Git · GitHub Actions · Postman
-
-**Currently open to full-time or Remote opportunities.** Based in Lagos, Nigeria (WAT, UTC+1).
-
-- **Email:** onyecosmas@gmail.com
-
-**Featured Projects**
-
-- [Zura CRM](https://github.com/cosmasonyekwelu/zura-crm): CRM Web application with secure auth & dashboards
-- [TwitterPlus](https://github.com/cosmasonyekwelu/twitterplus): Real-time social platform with WebSockets
-- [BTC Screenshot Generator](https://github.com/cosmasonyekwelu/btc-screenshot): Bitcoin Transaction Screenshot Generator and also to rebroadcast un-confirmed transactions.
-
-## 💬 Ask Me About
-
-- Web development
-- Cryptocurrency trading
-- APIs & backend integrations
-- Mobile development with React Native
+</div>
 
 ---
 
-## 📫 Connect
+## About Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cosmasonyekwelu)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cosmasonyekwelu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cosmasonyekwelu)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cosmasonyekwelu)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cosmasonyekwelu)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cosmasonyekwelu)
+I'm a Lagos-based software engineer focused on backend development, full-stack product engineering, fintech, and AI integrations.
+
+I work across the product lifecycle: designing APIs, building application backends, integrating databases and third-party services, and delivering user-facing experiences. I'm particularly interested in the intersection of financial infrastructure, cryptocurrency, intelligent automation, and useful AI products.
+
+- Building with **Node.js, Python, Django, React, and TypeScript**.
+- Interested in **fintech infrastructure, payments, crypto products, AI agents, and workflow automation**.
+- Experienced in developing authentication systems, dashboards, marketplace workflows, and API integrations.
+- Open to **remote and hybrid software engineering opportunities**.
+
+## Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3776ab)
+
+### Frontend
+![React](https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=61dafb)
+![React Native](https://img.shields.io/badge/React_Native-18181b?style=for-the-badge&logo=react&logoColor=61dafb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181b?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4)
+![Vite](https://img.shields.io/badge/Vite-18181b?style=for-the-badge&logo=vite&logoColor=646cff)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
+![Express](https://img.shields.io/badge/Express-18181b?style=for-the-badge&logo=express&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-18181b?style=for-the-badge&logo=django&logoColor=44b78b)
+![FastAPI](https://img.shields.io/badge/FastAPI-18181b?style=for-the-badge&logo=fastapi&logoColor=009688)
+![REST API](https://img.shields.io/badge/REST_APIs-18181b?style=for-the-badge&logo= fastapi&logoColor=009688)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=4169e1)
+![MongoDB](https://img.shields.io/badge/MongoDB-18181b?style=for-the-badge&logo=mongodb&logoColor=47a248)
+![MySQL](https://img.shields.io/badge/MySQL-18181b?style=for-the-badge&logo=mysql&logoColor=4479a1)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Git](https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-18181b?style=for-the-badge&logo=githubactions&logoColor=2088ff)
+![Postman](https://img.shields.io/badge/Postman-18181b?style=for-the-badge&logo=postman&logoColor=ff6c37)
+![Render](https://img.shields.io/badge/Render-18181b?style=for-the-badge&logo=render&logoColor=46e3b7)
+![Vercel](https://img.shields.io/badge/Vercel-18181b?style=for-the-badge&logo=vercel&logoColor=ffffff)
+
+## Featured Projects
+
+| Project | What it does |
+|---|---|
+| [Zura CRM](https://github.com/cosmasonyekwelu/zura-crm) | CRM application featuring secure authentication, dashboards, and business workflows. |
+| [TwitterPlus](https://github.com/cosmasonyekwelu/twitterplus) | Social application exploring real-time interactions with WebSockets. |
+| [BTC Screenshot Generator](https://github.com/cosmasonyekwelu/btc-screenshot) | Bitcoin transaction screenshot utility with transaction rebroadcast functionality. |
+
+> Explore my repositories for more experiments, product builds, and engineering work.
+
+## What I'm Exploring
+
+- AI agents and reliable agentic workflows
+- LLM integrations, retrieval-augmented generation, and tool calling
+- Fintech APIs, stablecoins, crypto payments, and OTC trading systems
+- Secure backend architecture, API design, and automation
+- Building products from practical user and business problems
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&hide_border=true&bg_color=0b1020&title_color=fb923c&icon_color=f97316&text_color=e5e7eb&rank_icon=github" alt="Cosmas's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&hide_border=true&bg_color=0b1020&title_color=fb923c&text_color=e5e7eb" alt="Most used programming languages" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=cosmasonyekwelu&theme=dark&hide_border=true&background=0b1020&ring=f97316&fire=fb923c&currStreakLabel=fb923c&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub contribution streak" />
+
+</div>
+
+## Let's Connect
+
+I'm open to conversations about software engineering roles, fintech products, AI integrations, backend systems, and interesting collaborations.
+
+- **Email:** [onyecosmas@gmail.com](mailto:onyecosmas@gmail.com)
+- **Website:** [cosmasonyekwelu.com](https://cosmasonyekwelu.com/)
+- **LinkedIn:** [linkedin.com/in/cosmasonyekwelu](https://linkedin.com/in/cosmasonyekwelu)
+- **X:** [@cosmasonyekwelu](https://x.com/cosmasonyekwelu)
+- **Writing:** [cosmasonyekwelu.substack.com](https://cosmasonyekwelu.substack.com/)
 
 ---
 
-## 🌐 Frontend
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### THE MIDNIGHT CODE LAB
 
-### ⚙️ Backend & APIs
+*Turning complex problems into practical systems — one commit at a time.*
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Built with curiosity](https://img.shields.io/badge/BUILT_WITH-CURIOSITY-f97316?style=for-the-badge&labelColor=0b1020)
+![Powered by coffee](https://img.shields.io/badge/DEBUGGED_WITH-COFFEE-fbbf24?style=for-the-badge&labelColor=0b1020)
 
-### 🛢️ Databases
+<sub>Have a great Halloween. Keep building. Keep shipping.</sub>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
----
-
-## 🎃 The Midnight Code Cauldron
-
-> Every commit is a spark in the dark, and every release is a spell cast into production.
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=cosmasonyekwelu&theme=dark&background=0d0d0d&border=FF7A18&stroke=F59E0B&ring=F97316&fire=F59E0B&currStreakNum=FDE68A&sideNums=FDE68A&currStreakLabel=FDE68A&sideLabels=FDE68A" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cosmasonyekwelu&show_icons=true&theme=dracula&hide_border=true&title_color=F59E0B&icon_color=F97316&text_color=FDE68A&bg_color=111111" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasonyekwelu&layout=compact&theme=dracula&hide_border=true&title_color=F59E0B&text_color=FDE68A&bg_color=111111" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cosmasonyekwelu&label=Spooky%20Profile%20Visits&color=orange&style=flat-square" alt="Profile Views" />
-</p>
-
-**⚡ Fun Fact:** I’m a huge sci-fi fan and I believe a good cup of coffee is the ultimate debugging tool.
-
-## [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosmasonyekwelu)
+</div>
