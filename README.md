@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./halloween-banner.svg" alt="Cosmas Onyekwelu — Halloween in the Code Lab" width="100%" />
-
 # Cosmas Onyekwelu
 
 ### Software Engineer | Fintech & AI | Backend-Leaning Full-Stack Developer
@@ -30,17 +28,20 @@ I work across the product lifecycle: designing APIs, building application backen
 ## Tech Stack
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3776ab)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=61dafb)
 ![React Native](https://img.shields.io/badge/React_Native-18181b?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181b?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4)
 ![Vite](https://img.shields.io/badge/Vite-18181b?style=for-the-badge&logo=vite&logoColor=646cff)
 
 ### Backend & APIs
+
 ![Node.js](https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
 ![Express](https://img.shields.io/badge/Express-18181b?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-18181b?style=for-the-badge&logo=django&logoColor=44b78b)
@@ -48,11 +49,13 @@ I work across the product lifecycle: designing APIs, building application backen
 ![REST API](https://img.shields.io/badge/REST_APIs-18181b?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=4169e1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-18181b?style=for-the-badge&logo=mongodb&logoColor=47a248)
 ![MySQL](https://img.shields.io/badge/MySQL-18181b?style=for-the-badge&logo=mysql&logoColor=4479a1)
 
 ### Tools & Platforms
+
 ![Docker](https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=2496ed)
 ![Git](https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=f05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-18181b?style=for-the-badge&logo=githubactions&logoColor=2088ff)
@@ -63,15 +66,19 @@ I work across the product lifecycle: designing APIs, building application backen
 ## Featured Projects
 
 ### [BambiFound](https://github.com/cosmasonyekwelu/BambiFound)
+
 A product-focused build centered on practical user value and streamlined workflows.
 
 ### [OTCbook](https://github.com/cosmasonyekwelu/capstone-version-otcbook)
+
 A trading and OTC-related workflow project built around operational efficiency and automation.
 
 ### [worknest](https://github.com/cosmasonyekwelu/worknest-backend)
+
 A workspace-focused platform aimed at improving collaboration, operations, and team productivity.
 
 ### [intelihr](https://github.com/cosmasonyekwelu/intelihr)
+
 An HR and workforce systems project focused on smarter internal processes and digital operations.
 
 > Explore my repositories for more experiments, product builds, and engineering work.
@@ -109,13 +116,9 @@ I'm open to conversations about software engineering roles, fintech products, AI
 
 <div align="center">
 
-### THE MIDNIGHT CODE LAB
-
-*Turning complex problems into practical systems — one commit at a time.*
+### Building practical systems, one commit at a time.
 
 ![Built with curiosity](https://img.shields.io/badge/BUILT_WITH-CURIOSITY-f97316?style=for-the-badge&labelColor=0b1020)
 ![Powered by coffee](https://img.shields.io/badge/DEBUGGED_WITH-COFFEE-fbbf24?style=for-the-badge&labelColor=0b1020)
-
-<sub>Have a great Halloween. Keep building. Keep shipping.</sub>
 
 </div>
